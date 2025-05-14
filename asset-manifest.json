@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/-Assignment-2-Password-Manager/static/css/main.18999151.chunk.css",
+    "main.js": "/-Assignment-2-Password-Manager/static/js/main.61696d85.chunk.js",
+    "main.js.map": "/-Assignment-2-Password-Manager/static/js/main.61696d85.chunk.js.map",
+    "runtime-main.js": "/-Assignment-2-Password-Manager/static/js/runtime-main.312a87dc.js",
+    "runtime-main.js.map": "/-Assignment-2-Password-Manager/static/js/runtime-main.312a87dc.js.map",
+    "static/js/2.b8158e63.chunk.js": "/-Assignment-2-Password-Manager/static/js/2.b8158e63.chunk.js",
+    "static/js/2.b8158e63.chunk.js.map": "/-Assignment-2-Password-Manager/static/js/2.b8158e63.chunk.js.map",
+    "index.html": "/-Assignment-2-Password-Manager/index.html",
+    "static/css/main.18999151.chunk.css.map": "/-Assignment-2-Password-Manager/static/css/main.18999151.chunk.css.map",
+    "static/js/2.b8158e63.chunk.js.LICENSE.txt": "/-Assignment-2-Password-Manager/static/js/2.b8158e63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.312a87dc.js",
+    "static/js/2.b8158e63.chunk.js",
+    "static/css/main.18999151.chunk.css",
+    "static/js/main.61696d85.chunk.js"
+  ]
+}
